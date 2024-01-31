@@ -1,0 +1,16 @@
+<dependencies>
+  <compile
+      roots="C:\Users\Keyur Parmar\DemoProjectNew\app@@:unityLibrary::release">
+    <dependency
+        name="C:\Users\Keyur Parmar\DemoProjectNew\app@@:unityLibrary::release"
+        simpleName="app:unityLibrary"/>
+  </compile>
+  <package
+      roots="C:\Users\Keyur Parmar\DemoProjectNew\app@@:unityLibrary::release,__local_aars__:C:\Users\Keyur Parmar\DemoProjectNew\app\unityLibrary\libs\unity-classes.jar:unspecified@jar">
+    <dependency
+        name="C:\Users\Keyur Parmar\DemoProjectNew\app@@:unityLibrary::release"
+        simpleName="app:unityLibrary"/>
+    <dependency
+        name="__local_aars__:C:\Users\Keyur Parmar\DemoProjectNew\app\unityLibrary\libs\unity-classes.jar:unspecified@jar"/>
+  </package>
+</dependencies>
